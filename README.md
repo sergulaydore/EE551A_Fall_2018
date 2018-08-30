@@ -1,13 +1,13 @@
 # EE551A Fall 2018
 This repository includes material for the course Engineering Programming: Python at Electrical and Engineering Department of Stevens Institute of Technology in Fall 2018.
 
-Meeting Times: Fridays at 6.15pm-8.45pm
-Classroom Location: Main Campus, M (Morton) 103
-Instructor: Assistant Prof. Sergul Aydore
-Contact Info: Burchard Building 211, saydore@stevens.edu
-Office Hours: Fridays at 3.30pm-5.30pm
-Course Web Address: https://github.com/sergulaydore/EE551A_Fall_2018
-Cross-listed with: CPE 551A
+- Meeting Times: Fridays at 6.15pm-8.45pm
+- Classroom Location: Main Campus, M (Morton) 103
+- Instructor: Assistant Prof. Sergul Aydore
+- Contact Info: Burchard Building 211, saydore@stevens.edu
+- Office Hours: Fridays at 3.30pm-5.30pm
+- Course Web Address: https://github.com/sergulaydore/EE551A_Fall_2018
+- Cross-listed with: CPE 551A
 
 ## COURSE DESCRIPTION
 
