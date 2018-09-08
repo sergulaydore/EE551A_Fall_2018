@@ -1,4 +1,5 @@
 # Homework 1
+**Deadline: 09/21/2018 5pm ET **
 
 This assignment helps you review basic Python objects types: numbers, strings, lists and dictionaries and operations on these objects.
 
