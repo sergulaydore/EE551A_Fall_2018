@@ -1,5 +1,5 @@
 # Lecture 2
-Video can be viewed [here](https://www.youtube.com/edit?o=U&video_id=d3P5dTY02d4).
+Video can be viewed [here](https://youtu.be/d3P5dTY02d4).
 
 In this course we covered:
 - Creating a project, running and debugging a code in PyCharm
