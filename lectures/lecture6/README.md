@@ -1,5 +1,5 @@
 # Lecture 6
-Video can be viewed [here](https://youtu.be/mlER9YPkWMw).
+Video can be viewed [here](https://youtu.be/YRkt40BjlI8).
 
 In this lecture we covered:
 - Recursive Functions
